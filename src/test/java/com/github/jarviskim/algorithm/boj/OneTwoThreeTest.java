@@ -3,6 +3,8 @@ package com.github.jarviskim.algorithm.boj;
 import com.github.jarviskim.algorithm.boj.a9095_OneTwoThree.OneTwoThree;
 import org.junit.Test;
 
+import static org.junit.Assert.assertEquals;
+
 public class OneTwoThreeTest {
 
     @Test(timeout = 1000)

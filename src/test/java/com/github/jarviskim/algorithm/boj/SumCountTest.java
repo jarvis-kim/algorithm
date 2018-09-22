@@ -3,6 +3,8 @@ package com.github.jarviskim.algorithm.boj;
 import com.github.jarviskim.algorithm.boj.a2225_SumCount.SumCount;
 import org.junit.Test;
 
+import static org.junit.Assert.assertEquals;
+
 public class SumCountTest {
 
     @Test

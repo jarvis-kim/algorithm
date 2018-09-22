@@ -3,6 +3,8 @@ package com.github.jarviskim.algorithm.boj;
 import com.github.jarviskim.algorithm.boj.a2516_WineTaste.WineTaste;
 import org.junit.Test;
 
+import static org.junit.Assert.assertEquals;
+
 public class WineTasteTest {
 
     @Test
